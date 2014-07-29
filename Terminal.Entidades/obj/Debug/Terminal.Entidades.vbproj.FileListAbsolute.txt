@@ -1,0 +1,8 @@
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\bin\Debug\Terminal.Entidades.dll
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\bin\Debug\Terminal.Entidades.pdb
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\bin\Debug\Terminal.Entidades.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\obj\Debug\Terminal.Entidades.Resources.resources
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\obj\Debug\Terminal.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\obj\Debug\Terminal.Entidades.dll
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\obj\Debug\Terminal.Entidades.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.Entidades\obj\Debug\Terminal.Entidades.pdb

@@ -1,0 +1,8 @@
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\bin\Debug\Terminal.DAO.dll
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\bin\Debug\Terminal.DAO.pdb
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\bin\Debug\Terminal.DAO.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\obj\Debug\Terminal.DAO.vbproj.GenerateResource.Cache
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\obj\Debug\Terminal.DAO.dll
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\obj\Debug\Terminal.DAO.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.DAO\obj\Debug\Terminal.DAO.pdb

@@ -1,0 +1,8 @@
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\bin\Debug\Terminal.UI.exe
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\bin\Debug\Terminal.UI.pdb
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\bin\Debug\Terminal.UI.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\obj\x86\Debug\Terminal.UI.Resources.resources
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\obj\x86\Debug\Terminal.UI.vbproj.GenerateResource.Cache
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\obj\x86\Debug\Terminal.UI.exe
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\obj\x86\Debug\Terminal.UI.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.UI\obj\x86\Debug\Terminal.UI.pdb

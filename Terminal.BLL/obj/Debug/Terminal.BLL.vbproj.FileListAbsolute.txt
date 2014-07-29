@@ -1,0 +1,8 @@
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\bin\Debug\Terminal.BLL.dll
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\bin\Debug\Terminal.BLL.pdb
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\bin\Debug\Terminal.BLL.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\obj\Debug\Terminal.BLL.Resources.resources
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\obj\Debug\Terminal.BLL.vbproj.GenerateResource.Cache
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\obj\Debug\Terminal.BLL.dll
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\obj\Debug\Terminal.BLL.xml
+C:\Users\Andres\Documents\Visual Studio 2010\Projects\Terminal\Terminal.BLL\obj\Debug\Terminal.BLL.pdb
